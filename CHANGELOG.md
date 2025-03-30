@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`adfa457`](https://github.com/stdlib-js/stdlib/commit/adfa4575e7715273bb374e76860236608ca4a165) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`00569aa`](https://github.com/stdlib-js/stdlib/commit/00569aa051fd963e26a0cf55778fd55e46439b27) - **feat:** add `stats/strided/sstdevch` _(by Aayush Khanna)_
 
 </details>
