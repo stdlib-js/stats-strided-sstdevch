@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-17)
+## Unreleased (2026-10-12)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`cb94d72`](https://github.com/stdlib-js/stdlib/commit/cb94d72f6983d98896efbb4002d008fae9d7f644) - **test:** migrate `stats/strided/sstdevch` to ULP-based assertions [(#16073)](https://github.com/stdlib-js/stdlib/pull/16073) _(by Athan Reines)_
 -   [`f19d370`](https://github.com/stdlib-js/stdlib/commit/f19d370e0a194ac8ffed4916f8b8b51ecfe5896f) - **chore:** clean-up [(#14016)](https://github.com/stdlib-js/stdlib/pull/14016) _(by Philipp Burckhardt)_
 -   [`d6c72a0`](https://github.com/stdlib-js/stdlib/commit/d6c72a042cca76e97759951cdbf89375b784e16a) - **bench:** refactor to use string interpolation in `stats/strided` [(#11359)](https://github.com/stdlib-js/stdlib/pull/11359) _(by Karan Anand)_
 
@@ -25,8 +26,9 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Karan Anand
 -   Philipp Burckhardt
 
